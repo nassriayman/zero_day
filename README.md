@@ -1,0 +1,1 @@
+An optional vagrant project
